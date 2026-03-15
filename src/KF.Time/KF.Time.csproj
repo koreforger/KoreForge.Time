@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>KF.Time</AssemblyName>
+    <RootNamespace>KF.Time</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>KoreForge.Time</PackageId>
+    <Description>Deterministic and system-backed clock abstractions for KoreForge applications.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="" Visible="false" />
+  </ItemGroup>
+</Project>

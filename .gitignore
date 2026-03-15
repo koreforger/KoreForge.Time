@@ -1,0 +1,10 @@
+# .gitignore for KoreForge.Time
+artifacts/
+out/
+**/bin/
+**/obj/
+*.user
+.vs/
+.idea/
+*.suo
+*.DS_Store
