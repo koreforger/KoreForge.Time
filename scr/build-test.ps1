@@ -5,8 +5,8 @@ param(
 
 Push-Location (Resolve-Path "$PSScriptRoot\..")
 try {
-    dotnet build KoreForge.Time.sln --force -c $Configuration
-    dotnet test  KoreForge.Time.sln -c $Configuration --no-build `
+    dotnet build KoreForge.Time.slnx --force -c $Configuration
+    dotnet test  KoreForge.Time.slnx -c $Configuration --no-build `
         --logger "html;LogFileName=TestResults.html" `
         --results-directory out/TestResults
     Write-Host 'Test results: out/TestResults/TestResults.html' -ForegroundColor Green

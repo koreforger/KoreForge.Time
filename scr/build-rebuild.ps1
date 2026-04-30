@@ -5,7 +5,7 @@ param(
 
 Push-Location (Resolve-Path "$PSScriptRoot\..")
 try {
-    dotnet build KoreForge.Time.sln --force -c $Configuration
+    dotnet build KoreForge.Time.slnx --force -c $Configuration
 } finally {
     Pop-Location
 }
