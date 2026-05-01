@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace KF.Time;
+namespace KoreForge.Time;
 
 /// <summary>
 /// Local time implementation that surfaces local timestamps while still exposing UTC when required.

@@ -1,6 +1,6 @@
 using System;
 
-namespace KF.Time.Tests;
+namespace KoreForge.Time.Tests;
 
 public class SystemClockTests
 {

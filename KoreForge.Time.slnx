@@ -5,9 +5,9 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/src/">
-    <Project Path="src/KF.Time/KF.Time.csproj" />
+    <Project Path="src/KoreForge.Time/KoreForge.Time.csproj" />
   </Folder>
   <Folder Name="/tst/">
-    <Project Path="tst/KF.Time.Tests/KF.Time.Tests.csproj" />
+    <Project Path="tst/KoreForge.Time.Tests/KoreForge.Time.Tests.csproj" />
   </Folder>
 </Solution>

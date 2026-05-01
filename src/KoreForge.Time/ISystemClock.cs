@@ -1,6 +1,6 @@
 using System;
 
-namespace KF.Time;
+namespace KoreForge.Time;
 
 /// <summary>
 /// Represents the single source of truth for wall-clock and stopwatch-based time measurements.

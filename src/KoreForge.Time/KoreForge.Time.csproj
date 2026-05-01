@@ -3,8 +3,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyName>KF.Time</AssemblyName>
-    <RootNamespace>KF.Time</RootNamespace>
+    <AssemblyName>KoreForge.Time</AssemblyName>
+    <RootNamespace>KoreForge.Time</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>

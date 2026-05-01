@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using System.Threading;
 
-namespace KF.Time;
+namespace KoreForge.Time;
 
 /// <summary>
 /// Deterministic clock intended for tests that need to control the perceived time.

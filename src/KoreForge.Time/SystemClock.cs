@@ -1,4 +1,4 @@
-namespace KF.Time;
+namespace KoreForge.Time;
 
 /// <summary>
 /// Provides convenient access to the default system clock (local time).

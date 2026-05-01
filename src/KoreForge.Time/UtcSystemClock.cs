@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace KF.Time;
+namespace KoreForge.Time;
 
 /// <summary>
 /// UTC-only implementation that treats local and UTC time as equivalent for deterministic output.

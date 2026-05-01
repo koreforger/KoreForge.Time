@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace KF.Time.Tests;
+namespace KoreForge.Time.Tests;
 
 public class VirtualSystemClockTests
 {
